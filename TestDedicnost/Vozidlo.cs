@@ -24,7 +24,7 @@ namespace TestDedicnost
             this.potrebneOpravneni = potrebneOpravneni;
             this.spaceTotal = spaceTotal;
             this.spaceUsed = spaceUsed;
-            this.spotreba = spotreba;
+            this.spotreba = spotreba;//
             this.x = x;
             this.y = y;
         }
